@@ -1,0 +1,13 @@
+C:\Users\genej\source\repos\WindowsApp6\bin\Debug\WindowsApp6.exe
+C:\Users\genej\source\repos\WindowsApp6\bin\Debug\WindowsApp6.pdb
+C:\Users\genej\source\repos\WindowsApp6\bin\Debug\WindowsApp6.xml
+C:\Users\genej\source\repos\WindowsApp6\obj\Debug\WindowsApp6.vbproj.AssemblyReference.cache
+C:\Users\genej\source\repos\WindowsApp6\obj\Debug\WindowsApp6.Form1.resources
+C:\Users\genej\source\repos\WindowsApp6\obj\Debug\WindowsApp6.Resources.resources
+C:\Users\genej\source\repos\WindowsApp6\obj\Debug\WindowsApp6.vbproj.GenerateResource.cache
+C:\Users\genej\source\repos\WindowsApp6\obj\Debug\WindowsApp6.vbproj.CoreCompileInputs.cache
+C:\Users\genej\source\repos\WindowsApp6\obj\Debug\WindowsApp6.exe
+C:\Users\genej\source\repos\WindowsApp6\obj\Debug\WindowsApp6.xml
+C:\Users\genej\source\repos\WindowsApp6\obj\Debug\WindowsApp6.pdb
+C:\Users\genej\source\repos\WindowsApp6\obj\Debug\WindowsApp6.Form2.resources
+C:\Users\genej\source\repos\WindowsApp6\obj\Debug\WindowsApp6.Form3.resources
